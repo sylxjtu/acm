@@ -1,4 +1,4 @@
-//AC Time: 40 min
+//AC Time: 0MS
 //Algorithm: None
 #include <cstdio>
 #include <cmath>
